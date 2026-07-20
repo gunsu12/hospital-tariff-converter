@@ -1,0 +1,24 @@
+{
+  "rows": [
+    {
+      "nama tindakan": "Laparascopy",
+      "kelas": "KELAS 1",
+      "tariff umum": "0",
+      "operator": "500.000",
+      "asisten": "50.000",
+      "anastesi": "50.000",
+      "penata": "50.000",
+      "instrumen": "50.000",
+      "jasa rs": "150.000",
+      "jasa pelayanan": "50.000"
+    }
+  ],
+  "mapping": {
+    "action_col": "nama tindakan",
+    "class_col": "kelas",
+    "total_tariff_col": "tariff umum",
+    "cat1_cols": ["jasa rs"],
+    "cat2_cols": ["operator", "asisten", "anastesi", "penata", "instrumen"],
+    "cat3_cols": ["jasa pelayanan"]
+  }
+}

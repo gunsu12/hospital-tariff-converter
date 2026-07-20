@@ -1,0 +1,1 @@
+{"version":2,"defects":{"Tests\\Unit\\TariffUnpivoterServiceTest::test_it_transforms_horizontal_tariff_into_parent_and_child_rows":7},"times":{"Tests\\Unit\\TariffUnpivoterServiceTest::test_it_transforms_horizontal_tariff_into_parent_and_child_rows":0.006}}
